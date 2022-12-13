@@ -1,0 +1,1 @@
+# announcement-sender-discord-chrome
